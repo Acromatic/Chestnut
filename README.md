@@ -17,7 +17,7 @@ Includes the following features:
 
 Multithreading: 
 --------------------
- The framework utilizes multiple threads to run the loaded plugins concurrently, maximizing the utilization of available CPU cores and improving performance.
+ The framework utilizes multiple threads to run the loaded plugins concurrently, maximizing the utilization of available CPU cores and improving performance. TODO: Thread Pooling
 
 Dynamic Loading: 
 --------------------

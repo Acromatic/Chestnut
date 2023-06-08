@@ -10,7 +10,7 @@
    CHESTNUT       
 --------------------
 --------------------
-A Win64 C++20 Multi-threaded Plugin-Framework Application,
+A minimal Win64 C++20 Multi-threaded Plugin-Framework Application,
 --------------------
 with "On-The-Fly" Dynamic Loading and Unloading.    
 --------------------

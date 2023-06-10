@@ -8,7 +8,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 
 --------------------
-   CHESTNUT       
+   <p align="center">CHESTNUT</p>       
 --------------------
 --------------------
 A minimal Win64 C++20 Multi-threaded Plugin-Framework Application,

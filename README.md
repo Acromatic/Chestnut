@@ -6,9 +6,9 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
-
+<p align="center">
 --------------------
-   <p align="center">CHESTNUT</p>       
+   CHESTNUT     
 --------------------
 --------------------
 A minimal Win64 C++20 Multi-threaded Plugin-Framework Application,
@@ -16,6 +16,7 @@ A minimal Win64 C++20 Multi-threaded Plugin-Framework Application,
 with "On-The-Fly" Dynamic Loading and Unloading.    
 --------------------
 
+</p>  
 Uniquely the 1.0 version of this was written almost entirely by chatGPT4, with a lot of guidance of course. I did the leg work but chatGPT4 handled fixing the code until we got the necessary ground work finished. Which is kind of how this project started.
 
 

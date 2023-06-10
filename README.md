@@ -32,6 +32,14 @@ HOW TO INSTALL
 Download the code in whatever medieval way you can and build your own projects for now. The functionality of the plugins themselves will be aiding in the construction of this project over time.
 A plugins repository is planned but I have no such repository link to give at this time. You're on your own for now! Use at your own risk!
 
+Note: Build in release mode because HMODULE depends on it for now, I need fallback devices and a build config to make the framework fully cross platform. (as well as a linux and mac machine)
+
+--------------------
+PLANS FOR THE FUTURE
+--------------------
+Well thread pooling was the first concept, but that turned into thread queues and interface design, which I feel is more flexible. But have better control over the threads and safty is core to this project.
+Also, the framework is based on the concept of speed, so you can always expect that if I get major speed gains I'll go that direction. But I honestly believe the 1.0 version of this is as minimal as you can do it for the most part, without optimizations. I plan to make the framework cross platform via compile config someday but with no way to test and build on those machines, it's a no go. If you're wonder though for $1000 an individual with skills like mine could purchase the hardware necessary to get the job done. just an FYI, I'm not even accepting donations until my taxes get done this year. I may even consider collaborators but honestly just fork it and submit pull requests or something. Email works, I love it old school! Don't fix what isn't broken and always fix what needs to be done. Good luck and keep up the good fight! Without openAI this wasn't even possible!
+
 
 FEEDBACK
 --------------------

@@ -1,3 +1,4 @@
+ 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
@@ -6,7 +7,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
-<p align="center">
+
 --------------------
    CHESTNUT     
 --------------------
@@ -16,7 +17,6 @@ A minimal Win64 C++20 Multi-threaded Plugin-Framework Application,
 with "On-The-Fly" Dynamic Loading and Unloading.    
 --------------------
 
-</p>  
 Uniquely the 1.0 version of this was written almost entirely by chatGPT4, with a lot of guidance of course. I did the leg work but chatGPT4 handled fixing the code until we got the necessary ground work finished. Which is kind of how this project started.
 
 
@@ -47,6 +47,9 @@ HOW TO INSTALL
 
 Download the code in whatever medieval way you can and build your own projects for now. The functionality of the plugins themselves will be aiding in the construction of this project over time.
 A plugins repository is planned but I have no such repository link to give at this time. You're on your own for now! Use at your own risk!
+
+
+
 
 
 
